@@ -272,3 +272,14 @@ Evaluate
 Deploy
   ↓
 Improve
+I believe in learning by building practical projects and continuously
+improving solutions through experimentation and real-world implementation.
+
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/sania-firdous-shaik-/"> <img src="https://img.shields.io/badge/LinkedIn-Sania%20Firdous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:saniafirdous2006@gmail.com"> <img src="https://img.shields.io/badge/Email-saniafirdous2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Sania-firdous-shaik"> <img src="https://img.shields.io/badge/GitHub-Sania--firdous--shaik-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
+<div align="center">
+⭐ Thanks for visiting my profile!
+
+Building with AI • Learning continuously • Solving real-world problems
+
+</div> ```
