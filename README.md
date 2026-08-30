@@ -1,10 +1,12 @@
-<div align="center">
-
 # Hi, I'm Sania Firdous 👋
 
 ### AI & Data Science Student | Machine Learning | Generative AI | RAG
 
-<p>
+I’m a **B.Tech student specializing in Artificial Intelligence & Data Science**, passionate about building practical solutions using **Machine Learning, Generative AI, Data Analytics, and modern web technologies**.
+
+I enjoy working across the complete development lifecycle — from **data preprocessing and feature engineering to model development, evaluation, API integration, and deployment**.
+
+<p align="left">
   <a href="https://www.linkedin.com/in/sania-firdous-shaik-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -16,73 +18,75 @@
   </a>
 </p>
 
-</div>
-
 ---
 
 ## 👩‍💻 About Me
 
-I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**,
-passionate about building practical solutions using Machine Learning,
-Generative AI, Data Analytics and modern web technologies.
-
-I enjoy working across the complete development lifecycle — from
-**data preprocessing and feature engineering to model development,
-evaluation, API integration and deployment.**
-
-### What I work with
-
-- 🤖 Machine Learning & Predictive Analytics
-- 🧠 Generative AI & Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 📊 Data Analysis & Visualization
-- 🗄️ SQL & Database Management
-- 🌐 AI-powered Web Applications
-- 🚀 Model & Application Deployment
+* 🎓 B.Tech in **Artificial Intelligence & Data Science**
+* 🤖 Interested in **Machine Learning, Generative AI, RAG, NLP, and Data Science**
+* 🧠 Building AI applications that solve practical problems
+* 📊 Experienced with **data analysis, visualization, SQL, and predictive modeling**
+* 🚀 Interested in taking projects from **idea → development → deployment**
+* 💻 Comfortable working with **Python, Java, SQL, and JavaScript**
+* 🔍 Currently strengthening my skills in **DSA, Deep Learning, NLP, and LLM applications**
 
 ---
 
 # 🛠️ Technical Skills
 
-### Languages
+### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006600?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge"/>
+</p>
 
-### AI & Generative AI
+### 🧠 Generative AI & AI
 
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8A2BE2?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-Generative%20AI-FF6F00?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B0082?style=flat-square)
+<p>
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented%20Generation-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-Generative%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B0082?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence%20Transformers-Embeddings-4285F4?style=for-the-badge"/>
+</p>
 
-### Data Visualization
+### 📊 Data Visualization
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
 
-### Web Development & Deployment
+### 🌐 Web Development & Deployment
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
 
 ---
 
@@ -90,88 +94,98 @@ evaluation, API integration and deployment.**
 
 ## 💳 Credit Card Fraud Detection & Risk Scoring System
 
-An end-to-end machine learning application designed to detect
-fraudulent credit card transactions and classify transaction risk.
+**End-to-end machine learning system for detecting potentially fraudulent credit card transactions and classifying transaction risk.**
 
-### Highlights
+### 🔍 Key Features
 
-- Built a fraud detection pipeline using **XGBoost**
-- Performed data preprocessing and feature engineering
-- Handled highly imbalanced transaction data
-- Applied categorical and numerical feature preprocessing
-- Evaluated models using Precision, Recall, F1-score, ROC-AUC and PR-AUC
-- Implemented probability-based risk classification
-- Used **SHAP** for model explainability
-- Integrated **SQL** for data management and analysis
-- Developed a web-based prediction interface
-- Deployed the application for real-world access
+* Built an end-to-end **fraud detection pipeline**
+* Used **XGBoost** for fraud classification
+* Performed data cleaning, preprocessing, and feature engineering
+* Handled highly **imbalanced transaction data**
+* Applied separate preprocessing for **categorical and numerical features**
+* Evaluated performance using **Precision, Recall, F1-score, ROC-AUC, and PR-AUC**
+* Implemented **probability-based risk classification**
+* Used **SHAP** for model explainability
+* Integrated **SQL** for data management and analysis
+* Developed a web-based prediction interface using **Flask**
+* Deployed the application for public access
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost`
-`SQL` `SHAP` `Flask` `HTML` `CSS` `Render`
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `SQL` `SHAP` `Flask` `HTML` `CSS` `Render`
+
+### 🔗 Links
+
+* **GitHub:** https://github.com/Sania-firdous-shaik/credit-card-fraud-detection-system
+* **Live Demo:** https://credit-card-fraud-detection-system-iotd.onrender.com/
 
 ---
 
 ## 🧠 AI-Powered GitHub Repository RAG Assistant
 
-An AI-powered application that enables users to analyze and interact
-with GitHub repositories using natural language.
+**An AI-powered application that allows users to analyze and interact with GitHub repositories using natural language.**
 
-### Highlights
+### 🔍 Key Features
 
-- Analyzes GitHub repository source code
-- Creates meaningful code chunks for retrieval
-- Generates semantic embeddings
-- Uses retrieval-based context generation
-- Implements a **Retrieval-Augmented Generation (RAG)** workflow
-- Enables natural-language interaction with codebases
-- Provides an API backend for repository analysis
-- Designed for understanding large software repositories
+* Accepts a GitHub repository as input
+* Clones and analyzes repository source code
+* Breaks source code into meaningful **retrievable chunks**
+* Generates **semantic embeddings**
+* Performs similarity-based retrieval
+* Uses retrieved code context in a **RAG workflow**
+* Enables natural-language interaction with codebases
+* Provides an API backend using **FastAPI**
+* Designed to make large software repositories easier to understand
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`Python` `FastAPI` `RAG` `LLMs`
-`Sentence Transformers` `Embeddings` `Vector Search`
+`Python` `FastAPI` `RAG` `LLMs` `Sentence Transformers` `Embeddings` `Vector Search`
+
+### 🔗 Links
+
+* **GitHub:** https://github.com/Sania-firdous-shaik
 
 ---
 
 ## 🫀 Liver Cirrhosis Prediction
 
-A machine learning project focused on predicting liver cirrhosis
-using patient-related data.
+**Machine learning project focused on predicting liver cirrhosis using patient-related clinical and demographic data.**
 
-### Highlights
+### 🔍 Key Features
 
-- Performed exploratory data analysis
-- Cleaned and preprocessed the dataset
-- Applied feature engineering
-- Developed classification models
-- Compared machine learning approaches
-- Evaluated model performance
-- Designed the system for early-stage risk prediction
+* Performed **exploratory data analysis**
+* Cleaned and preprocessed the dataset
+* Handled missing and categorical data
+* Performed feature engineering
+* Developed classification models
+* Compared different machine learning approaches
+* Evaluated model performance using classification metrics
+* Designed the system for **early-stage risk prediction**
 
-### Tech Stack
+### 🧰 Tech Stack
 
-`Python` `Pandas` `NumPy`
-`Scikit-learn` `Machine Learning` `Data Visualization`
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Visualization`
+
+### 🔗 Project
+
+https://github.com/Sania-firdous-shaik/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
 
 ---
 
 ## 🌍 AI-EnviroScan
 
-An interactive environmental data analysis and visualization
-application designed to explore environmental indicators.
+**Interactive environmental data analysis and visualization application for exploring environmental indicators and trends.**
 
-### Highlights
+### 🔍 Key Features
 
-- Interactive data dashboard
-- Data preprocessing and analysis
-- Interactive visualizations
-- Environmental data exploration
-- User-friendly dashboard interface
+* Interactive environmental dashboard
+* Data preprocessing and analysis
+* Interactive visualizations
+* Environmental data exploration
+* User-friendly dashboard interface
+* Built for presenting data-driven environmental insights
 
-### Tech Stack
+### 🧰 Tech Stack
 
 `Python` `Pandas` `Plotly` `Streamlit`
 
@@ -179,17 +193,16 @@ application designed to explore environmental indicators.
 
 ## 🎨 Hastakala
 
-A creative web project inspired by traditional Indian handicrafts
-and artistic creativity.
+**Creative web project inspired by traditional Indian handicrafts and artistic creativity.**
 
-### Highlights
+### 🔍 Key Features
 
-- Designed a visually engaging user interface
-- Focused on presenting traditional art and crafts
-- Built with a modern web development approach
-- Combined creativity with frontend development
+* Designed a visually engaging user interface
+* Presented traditional art and crafts
+* Built using modern frontend development practices
+* Combined creativity with web development
 
-### Tech Stack
+### 🧰 Tech Stack
 
 `HTML` `CSS` `JavaScript`
 
@@ -199,27 +212,25 @@ and artistic creativity.
 
 ### ServiceNow
 
-- **ServiceNow Certified System Administrator (CSA)**
-- **ServiceNow Certified Application Developer (CAD)**
-- **ServiceNow Certified Implementation Specialist – Discovery**
+* 🏅 **ServiceNow Certified System Administrator (CSA)**
+* 🏅 **ServiceNow Certified Application Developer (CAD)**
+* 🏅 **ServiceNow Certified Implementation Specialist – Discovery (CIS-Discovery)**
 
 ---
 
 # 📚 Currently Learning
 
-I'm continuously strengthening my skills in:
-
-- Advanced Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- Vector Databases
-- Data Structures & Algorithms
-- SQL & Database Management
-- AI Application Development
-- Production Deployment
+* 🤖 Advanced Machine Learning
+* 🧠 Deep Learning
+* 💬 Natural Language Processing
+* ✨ Generative AI
+* 🧠 Large Language Models
+* 🔎 Retrieval-Augmented Generation
+* 🗃️ Vector Databases
+* 💻 Data Structures & Algorithms
+* 🗄️ SQL & Database Management
+* 🚀 AI Application Development
+* ☁️ Production Deployment
 
 ---
 
@@ -227,34 +238,29 @@ I'm continuously strengthening my skills in:
 
 I'm interested in opportunities related to:
 
-**Machine Learning Engineer**  
-**Data Scientist**  
-**AI/ML Engineer**  
-**Generative AI Engineer**  
-**NLP / LLM Engineer**  
-**Data Analyst / Data Science**
+* **Machine Learning Engineer**
+* **AI/ML Engineer**
+* **Data Scientist**
+* **Generative AI Engineer**
+* **NLP / LLM Engineer**
+* **Data Analyst / Data Science**
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sania-firdous-shaik&show_icons=true&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sania-firdous-shaik&layout=compact&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sania-firdous-shaik&show_icons=true&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sania-firdous-shaik&layout=compact&hide_border=true" height="165"/>
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sania-firdous-shaik&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sania-firdous-shaik&hide_border=true" />
+</p>
 
 ---
 
@@ -272,14 +278,30 @@ Evaluate
 Deploy
   ↓
 Improve
-I believe in learning by building practical projects and continuously
-improving solutions through experimentation and real-world implementation.
+```
 
-🤝 Let's Connect
-<div align="center"> <a href="https://www.linkedin.com/in/sania-firdous-shaik-/"> <img src="https://img.shields.io/badge/LinkedIn-Sania%20Firdous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:saniafirdous2006@gmail.com"> <img src="https://img.shields.io/badge/Email-saniafirdous2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Sania-firdous-shaik"> <img src="https://img.shields.io/badge/GitHub-Sania--firdous--shaik-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
-<div align="center">
-⭐ Thanks for visiting my profile!
+I believe in **learning by building** — turning concepts into practical projects, experimenting with different approaches, evaluating results, and continuously improving solutions.
 
-Building with AI • Learning continuously • Solving real-world problems
+---
 
-</div> ```
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sania-firdous-shaik-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sania%20Firdous-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:saniafirdous2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-saniafirdous2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sania-firdous-shaik">
+    <img src="https://img.shields.io/badge/GitHub-Sania--firdous--shaik-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <b>Building with AI • Learning continuously • Solving real-world problems</b>
+</p>
