@@ -256,14 +256,6 @@ I'm interested in opportunities related to:
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sania-firdous-shaik&hide_border=true" />
-</p>
-
----
-
 # 💡 My Approach
 
 ```text
@@ -305,3 +297,4 @@ I believe in **learning by building** — turning concepts into practical projec
 <p align="center">
   <b>Building with AI • Learning continuously • Solving real-world problems</b>
 </p>
+
