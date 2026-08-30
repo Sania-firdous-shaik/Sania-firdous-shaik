@@ -92,18 +92,45 @@ I enjoy working across the complete development lifecycle — from **data prepro
 
 # 🚀 Featured Projects
 
+## 🧠 AI-Powered GitHub Repository RAG Assistant
+
+**An AI-powered application that enables users to analyze and interact with GitHub repositories using natural language.**
+
+### 🔍 Key Features
+
+* Accepts a GitHub repository as input
+* Clones and analyzes repository source code
+* Breaks source code into meaningful **code chunks**
+* Generates **semantic embeddings** for code retrieval
+* Performs similarity-based retrieval
+* Uses retrieved code context in a **Retrieval-Augmented Generation (RAG)** workflow
+* Enables natural-language interaction with software repositories
+* Provides a backend API using **FastAPI**
+* Designed to make large codebases easier to understand and explore
+
+### 🧰 Tech Stack
+
+`Python` `FastAPI` `RAG` `LLMs` `Sentence Transformers` `Embeddings` `Vector Search`
+
+### 🔗 Links
+
+* **GitHub:** [RepoInsight](https://github.com/Sania-firdous-shaik)
+* **Live Demo:** [repo-insight-zeta.vercel.app](https://repo-insight-zeta.vercel.app/)
+
+---
+
 ## 💳 Credit Card Fraud Detection & Risk Scoring System
 
-**End-to-end machine learning system for detecting potentially fraudulent credit card transactions and classifying transaction risk.**
+**An end-to-end machine learning system designed to detect potentially fraudulent credit card transactions and classify transaction risk.**
 
 ### 🔍 Key Features
 
 * Built an end-to-end **fraud detection pipeline**
 * Used **XGBoost** for fraud classification
-* Performed data cleaning, preprocessing, and feature engineering
+* Performed data preprocessing and feature engineering
 * Handled highly **imbalanced transaction data**
-* Applied separate preprocessing for **categorical and numerical features**
-* Evaluated performance using **Precision, Recall, F1-score, ROC-AUC, and PR-AUC**
+* Applied separate preprocessing for categorical and numerical features
+* Evaluated models using **Precision, Recall, F1-score, ROC-AUC, and PR-AUC**
 * Implemented **probability-based risk classification**
 * Used **SHAP** for model explainability
 * Integrated **SQL** for data management and analysis
@@ -116,47 +143,21 @@ I enjoy working across the complete development lifecycle — from **data prepro
 
 ### 🔗 Links
 
-* **GitHub:** https://github.com/Sania-firdous-shaik/credit-card-fraud-detection-system
-* **Live Demo:** https://credit-card-fraud-detection-system-iotd.onrender.com/
-
----
-
-## 🧠 AI-Powered GitHub Repository RAG Assistant
-
-**An AI-powered application that allows users to analyze and interact with GitHub repositories using natural language.**
-
-### 🔍 Key Features
-
-* Accepts a GitHub repository as input
-* Clones and analyzes repository source code
-* Breaks source code into meaningful **retrievable chunks**
-* Generates **semantic embeddings**
-* Performs similarity-based retrieval
-* Uses retrieved code context in a **RAG workflow**
-* Enables natural-language interaction with codebases
-* Provides an API backend using **FastAPI**
-* Designed to make large software repositories easier to understand
-
-### 🧰 Tech Stack
-
-`Python` `FastAPI` `RAG` `LLMs` `Sentence Transformers` `Embeddings` `Vector Search`
-
-### 🔗 Links
-
-* **GitHub:** https://github.com/Sania-firdous-shaik
+* **GitHub:** [Credit Card Fraud Detection](https://github.com/Sania-firdous-shaik/credit-card-fraud-detection-system)
+* **Live Demo:** [credit-card-fraud-detection-system-iotd.onrender.com](https://credit-card-fraud-detection-system-iotd.onrender.com/)
 
 ---
 
 ## 🫀 Liver Cirrhosis Prediction
 
-**Machine learning project focused on predicting liver cirrhosis using patient-related clinical and demographic data.**
+**A machine learning project focused on predicting liver cirrhosis using patient-related clinical and demographic data.**
 
 ### 🔍 Key Features
 
 * Performed **exploratory data analysis**
 * Cleaned and preprocessed the dataset
 * Handled missing and categorical data
-* Performed feature engineering
+* Applied feature engineering
 * Developed classification models
 * Compared different machine learning approaches
 * Evaluated model performance using classification metrics
@@ -166,47 +167,10 @@ I enjoy working across the complete development lifecycle — from **data prepro
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Visualization`
 
-### 🔗 Project
+### 🔗 Links
 
-https://github.com/Sania-firdous-shaik/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
-
----
-
-## 🌍 AI-EnviroScan
-
-**Interactive environmental data analysis and visualization application for exploring environmental indicators and trends.**
-
-### 🔍 Key Features
-
-* Interactive environmental dashboard
-* Data preprocessing and analysis
-* Interactive visualizations
-* Environmental data exploration
-* User-friendly dashboard interface
-* Built for presenting data-driven environmental insights
-
-### 🧰 Tech Stack
-
-`Python` `Pandas` `Plotly` `Streamlit`
-
----
-
-## 🎨 Hastakala
-
-**Creative web project inspired by traditional Indian handicrafts and artistic creativity.**
-
-### 🔍 Key Features
-
-* Designed a visually engaging user interface
-* Presented traditional art and crafts
-* Built using modern frontend development practices
-* Combined creativity with web development
-
-### 🧰 Tech Stack
-
-`HTML` `CSS` `JavaScript`
-
----
+* **GitHub:** [Liver Cirrhosis Prediction](https://github.com/Sania-firdous-shaik/Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques)
+* **Live Demo:** [revolutionizing-liver-care-predicting-9pdx.onrender.com](https://revolutionizing-liver-care-predicting-9pdx.onrender.com)
 
 # 🏆 Certifications
 
